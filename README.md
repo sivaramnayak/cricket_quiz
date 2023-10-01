@@ -7,22 +7,6 @@ Welcome to the Cricket Quiz, a fun and interactive quiz page where you can test 
 1. **Clone the Repository**: To get started, clone this repository to your local computer. You can do this by running the following command in your terminal or command prompt:
 
    ```bash
-   git clone https://github.com/sivaramnayak/cricket-quiz.git
-
-
-Certainly! Here's an improved and more attractive README.md with easy-to-understand language:
-
-markdown
-Copy code
-# Cricket Quiz 🏏
-
-Welcome to the Cricket Quiz, a fun and interactive quiz page where you can test your knowledge about cricket! This quiz is built using HTML, CSS, and JavaScript.
-
-## How to Play
-
-1. **Clone the Repository**: To get started, clone this repository to your local computer. You can do this by running the following command in your terminal or command prompt:
-
-   ```bash
    git clone https://github.com/your-username/cricket-quiz.git
    
 Open the Quiz: Once you've cloned the repository, navigate to the project directory and open the index.html file in your web browser. The quiz will start automatically, and you'll be presented with multiple-choice questions about cricket.
